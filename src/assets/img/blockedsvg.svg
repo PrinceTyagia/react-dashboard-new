@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="145.901" height="58.818" viewBox="0 0 145.901 58.818">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.188" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b4c232"/>
+      <stop offset="0.375" stop-color="#b4c232"/>
+      <stop offset="1" stop-color="#8982c4"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="1.512" gradientTransform="matrix(0.686, -0.727, 0.735, 0.693, -0.211, 0.517)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b4c232"/>
+      <stop offset="0.307" stop-color="#b4c232"/>
+      <stop offset="1" stop-color="red"/>
+    </radialGradient>
+    <filter id="Ellipse_38" x="2.734" y="5.818" width="54" height="53" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_83" data-name="Group 83" transform="translate(5 5)">
+    <g id="Group_45" data-name="Group 45">
+      <rect id="Rectangle" width="113.007" height="31.47" rx="5" transform="translate(27.894 8.583)" fill="url(#linear-gradient)"/>
+      <circle id="Oval" cx="19.125" cy="19.125" r="19.125" transform="translate(5.405 5.405)" fill="#b4c232"/>
+      <g id="Oval-2" data-name="Oval" fill="none" stroke="#b4c232" stroke-miterlimit="10" stroke-width="5">
+        <circle cx="24.318" cy="24.318" r="24.318" stroke="none"/>
+        <circle cx="24.318" cy="24.318" r="26.818" fill="none"/>
+      </g>
+      <text id="Total_Sales" data-name="Total Sales" transform="translate(50.316 29.305)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Blocked</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -5, -5)" filter="url(#Ellipse_38)">
+      <ellipse id="Ellipse_38-2" data-name="Ellipse 38" cx="18" cy="17.5" rx="18" ry="17.5" transform="translate(11.73 11.82)" fill="url(#radial-gradient)"/>
+    </g>
+  </g>
+</svg>

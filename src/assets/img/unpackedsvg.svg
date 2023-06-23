@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="142.989" height="57.631" viewBox="0 0 142.989 57.631">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.153" y1="0.153" x2="1.375" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff68f5"/>
+      <stop offset="0.375" stop-color="#ff68f5"/>
+      <stop offset="1" stop-color="#8982c4"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_44" data-name="Group 44" transform="translate(5 5)">
+    <rect id="Rectangle" width="110.672" height="30.82" rx="5" transform="translate(27.318 8.405)" fill="url(#linear-gradient)"/>
+    <circle id="Oval" cx="18.73" cy="18.73" r="18.73" transform="translate(5.293 5.293)" fill="#ff68f5"/>
+    <g id="Oval-2" data-name="Oval" fill="none" stroke="#ff68f5" stroke-miterlimit="10" stroke-width="5">
+      <circle cx="23.815" cy="23.815" r="23.815" stroke="none"/>
+      <circle cx="23.815" cy="23.815" r="26.315" fill="none"/>
+    </g>
+    <text id="Total_Sales" data-name="Total Sales" transform="translate(52.534 29.009)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Unpacked</tspan></text>
+  </g>
+</svg>
