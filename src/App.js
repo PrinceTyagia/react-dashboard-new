@@ -31,7 +31,7 @@ function App() {
   if (process.env.NODE_ENV === "development") {
     axios.defaults.baseURL = "https://dboard.novussoftware.in/api";
   } else {
-    axios.defaults.baseURL = "http://localhost:3000/";
+    axios.defaults.baseURL = "https://dboard.novussoftware.in/api";
   }
   axios.defaults.withCredentials = true;
 
